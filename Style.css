@@ -1,0 +1,59 @@
+body{
+  font-family:Arial;
+  background:#026C3D;
+  color:White;
+
+}
+.Wellcome{
+  color:#FDD017;
+  font-size:30px;
+  
+}
+.title{
+  font-size:10px;
+}
+
+.AboutUs{
+  color:#FDD017;
+  font-size:27px;
+  
+}
+.SAC{
+  color:#FDD017;
+  font-size:27px;
+
+}
+.Contactus{
+  color:#FDD017;
+  font-size:27px;
+  
+}
+.info{
+  border:2px solid #FDD017;
+  padding:   20px;
+  
+}
+b{color:#FDD017;}
+
+img{width: 100%;}
+
+.Thankyouforvisiting{
+  color:#FDD017;
+  font-size:27px;
+  
+}
+.zxc{
+  color:White;
+  font-size:10px;
+  
+}
+
+.xcv{
+  color:White;
+  font-size:10px;
+  
+}
+.track{
+  color:#FDD017;
+  
+}
